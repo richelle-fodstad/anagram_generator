@@ -1,0 +1,9 @@
+REPAPER
+THE ANAGRAMS ARE:
+
+repaper
+paperer
+prepare
+THE PALINDROMES IN THE ANAGRAMS COLLECTION ARE:
+
+repaper

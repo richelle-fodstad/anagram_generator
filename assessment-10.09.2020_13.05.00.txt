@@ -1,0 +1,7 @@
+ASSESSMENT
+THE ANAGRAMS ARE:
+
+assessment
+THE PALINDROMES IN THE ANAGRAMS COLLECTION ARE:
+
+There are no palindromes.
